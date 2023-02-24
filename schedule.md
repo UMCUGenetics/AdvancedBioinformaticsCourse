@@ -18,27 +18,27 @@
 
 - 12:00 - 13:00 Lunch
 - 13:00 - 15:00 NoSQL practical - Adrien & Dieter (live) + remote teaching assistants
-- 15:00 - 16:00 Introduction Pangenomics - Andrea Guarracino (live from USA)
+- 15:00 - 16:00 Introduction pggb Pangenomics - Andrea Guarracino (live from USA)
 
 # Wednesday
 
-- 09:00 - 10:00 Talk Amelie (recording)
-- 10:00 - 10:15 break
-- 10:15 - 12:00 Practical pangenomics
+- 09:00 - 10:30 Talk Amelie (recording)
+- 10:30 - 11:00 break
+- 11:00 - 12:00 Practical pangenomics (part 1)
 
 - 12:00 - 13:00 lunch
-- 13:00 - 15:00 Practical pangenomics
+- 13:00 - 15:00 Practical pangenomics (part 2)
 - 15:00 - 17:00 On Pangenome Graphs + Q&A - Erik (online from USA)
 
 # Thursday
 
 - 09:00 - 10:45 Interoperability in Science: Semantics - Jerven (recording)
--               (was Pjotr intro in there?)
+                (was Pjotr intro in there?)
 - 10:45 - 11:00 break
 - 11:00 - 12:00 Introduction RDF & SPARQL cont. - Pjotr (live)
 - 12:00 - 13:00 lunch
--
-- 13:00 - 14:00 Pangenomics and Proteogenomics - Victor (live)
+
+- 13:00 - 14:00 Pangenomics and Proteogenomics + Q&A - Victor+Pjotr (live)
 - 14:00 - 15:45 RDF practical - Adrien & Dieter (live) + remote teaching assistants
 - 16:00 - 17:00 CSND seminar - Victor (live)
 
@@ -47,5 +47,4 @@
 - 09:00 - 12:00 FAIR + RDF/SPARQL - Mark (live)
 
 - 12:00 - 13:00 lunch
-- 13:00 - 14:00 RDF practical cont.
 - 14:00 - 16:00 Exam - Adrien & Dieter (live) + remote teaching assistants
