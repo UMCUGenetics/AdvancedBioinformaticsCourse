@@ -37,7 +37,7 @@
 
 - 13:00 - 14:00 RDF & SPARQL - Pjotr (live)
 - 14:00 - 15:45 RDF practical - Adrien & Dieter (live) + remote teaching assistants
-- 16:00 - 17:00 CSND seminar - Victor (live with extra time for Q&A)
+- 16:00 - 17:30 CSND seminar - Victor (live with extra time for Q&A)
 
 # Friday
 
