@@ -1,4 +1,4 @@
-* Monday
+# Monday
 
 - 09:00 - 09:15 Introduction - Adrien and Pjotr (live)
 - 09:15 - 11:15 Covid-19 and other real time genomics challenges - Joep (online)
@@ -8,7 +8,7 @@
 - 12:00 - 13:00 lunch
 - 13:00 - 16:00 SQL practical - Adrien & Dieter (live) + remote teaching assistants
 
-* Tuesday
+# Tuesday
 
 - 09:00 - 09:45 NoSQL and JSON (part 1) - Pjotr (live? Recording?)
 - 09:45 - 10:00 break
@@ -20,7 +20,7 @@
 - 13:00 - 15:00 NoSQL practical - Adrien & Dieter (live) + remote teaching assistants
 - 15:00 - 16:00 Introduction Pangenomics - Andrea Guarracino (live from USA)
 
-* Wednesday
+# Wednesday
 
 - 09:00 - 10:00 Talk Amelie (recording)
 - 10:00 - 10:15 break
@@ -30,7 +30,7 @@
 - 13:00 - 15:00 Practical pangenomics
 - 15:00 - 17:00 On Pangenome Graphs + Q&A - Erik (online from USA)
 
-* Thursday
+# Thursday
 
 - 09:00 - 10:45 Interoperability in Science: Semantics - Jerven (recording)
 -               (was Pjotr intro in there?)
@@ -42,7 +42,7 @@
 - 14:00 - 15:45 RDF practical - Adrien & Dieter (live) + remote teaching assistants
 - 16:00 - 17:00 CSND seminar - Victor (live)
 
-* Friday
+# Friday
 
 - 09:00 - 12:00 FAIR + RDF/SPARQL - Mark (live)
 
