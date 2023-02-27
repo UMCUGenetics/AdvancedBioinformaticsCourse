@@ -20,9 +20,9 @@
 
 # Wednesday Mar 01
 
-- 09:00 - 10:30 Building Pangenome Graphs - Erik Garrison (recording)
-- 10:30 - 11:00 *break*
-- 11:00 - 12:00 Pangenome Q&A - Pjotr Prins (in-person)
+- 09:00 - 11:30 Building Pangenome Graphs - Erik Garrison (recording)
+- 11:30 - 11:45 *break*
+- 11:45 - 12:00 Pangenome Q&A - Pjotr Prins (in-person)
 - 12:00 - 13:00 *lunch*
 - 13:00 - 15:00 Practical pangenomics - Adrien Melquiond & Dieter Stoker (in-person) + teaching assistants (online)
 - 15:00 - 17:00 Recap + Q&A - Erik Garrison (online)
