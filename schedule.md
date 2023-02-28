@@ -16,7 +16,7 @@
 - 11:15 - 12:00 NoSQL and JSON (part 2) - Pjotr Prins (recording + in-person Q&A)
 - 12:00 - 13:00 *lunch*
 - 13:00 - 15:00 NoSQL practical - Adrien Melquiond & Dieter Stoker (in-person) + teaching assistants (online)
-- 15:00 - 17:00 Introduction pggb Pangenomics - Andrea Guarracino (online)
+- 15:00 - 16:30 Introduction pggb Pangenomics - Andrea Guarracino (online)
 
 # Wednesday Mar 01
 
