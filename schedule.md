@@ -21,7 +21,7 @@
 
 - 09:00 - 10:15 **NoSQL and JSON** - Pjotr Prins (recorded lecture)
 - 10:15 - 10:30 *break*
-- 10:30 - 12:00 **Pangenomics and proteogenomics** - Victor Guryev (in-person)
+- 10:30 - 12:00 **Multi-omics integration and personalized medicine** - Victor Guryev (in-person)
 - 12:00 - 13:00 *lunch*
 - 13:00 - 15:30 **NoSQL practical** - Adrien Melquiond & Dieter Stoker (in-person) + teaching assistants (online)
 - 15:30 - 17:00 **Interoperability in Science: Semantics** - Jerven Bolleman (recorded lecture)
