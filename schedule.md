@@ -36,7 +36,7 @@
 - 12:00 - 13:00 *lunch*
 - 13:00 - 15:45 **RDF practical** - Adrien Melquiond + teaching assistants (online)
 - 15:45 - 16:00 *break - walking to the Hubrecht Institute*
-- 16:00 - 17:00 **CS&D seminar** - Pjotr Prins (in-person)
+- 16:00 - 17:00 **CS&D seminar: "Pangenomes, genotyping and how we can improve on using population studies"** - Pjotr Prins (in-person)
 
 # Friday Apr 12
 - 09:00 - 12:30 **FAIR + RDF/SPARQL + Q&A** - Mark Wilkinson (in-person)
