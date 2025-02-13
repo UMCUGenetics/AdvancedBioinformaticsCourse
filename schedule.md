@@ -24,7 +24,7 @@
 - 13:30 - 15:30 **Building pangenomics graphs practical** - Adrien Melquiond & Ruben Bakker (in-person)
 - 15:30 - 16:00 **Recap + Q&A** - Andre Guarracino (online) and Pjotr Prins (in-person)
 
-# Thursday Apr 20
+# Thursday Feb 20
 
 - 09:00 - 10:15 **Multi-omics integration and personalized medicine** - Victor Guryev (in-person)
 - 10:15 - 10:30 *break*
@@ -34,7 +34,7 @@
 - 15:45 - 16:00 *break - walking to the Hubrecht Institute*
 - 16:00 - 17:00 **CS&D seminar: "Making sense of large cancer genomics datasets"** - Joep de Ligt (in-person)
 
-# Friday Apr 21
+# Friday Feb 21
 - 09:00 - 12:00 **FAIR + RDF/SPARQL + AI** - Pjotr Prins (in-person)
 - 12:00 - 14:00 *lunch*
 - 14:00 - 16:00 **Final Assignment**
