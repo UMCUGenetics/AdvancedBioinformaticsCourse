@@ -1,44 +1,40 @@
-# Monday Apr 08
+# Monday Feb 17
 
 - 09:00 - 10:00 **Introduction & SQL** - Adrien Melquiond (in-person)
 - 10:00 - 10:15 *break*
-- 10:15 - 12:00 **Covid-19 and other real time genomics challenges** - Joep de Ligt (recorded lecture) 
+- 10:15 - 12:00 **Interoperability in Science: Semantics** - Jerven Bolleman (recorded lecture)
 - 12:00 - 13:00 *lunch*
-- 13:00 - 16:00 **SQL practical** - Adrien Melquiond (in-person) + teaching assistants (online)
+- 13:00 - 16:00 **SQL practical** - Adrien Melquiond & Ruben Bakker (in-person)
 
-# Tuesday Apr 09
+# Tuesday Feb 18
 
-- 09:00 - 10:30 **Building Pangenome Graphs** - Erik Garrison (recorded lecture)
+- 09:00 - 10:30 **Integrating WGS and RNAseq data & introduction to the Maxima biobank** - Jayne Hehir-Kwa (in-person)
 - 10:30 - 10:45 *break*
-- 10:45 - 11:00 **Pangenome Q&A** - Pjotr Prins (online)
-- 11:00 - 12:00 **Introduction pggb Pangenomics** - Andrea Guarracino (recorded lecture)
+- 10:45 - 12:00 **NoSQL and JSON** - Pjotr Prins (recorded lecture)
 - 12:00 - 13:00 *lunch*
-- 13:00 - 15:00 **Building pangenomics graphs practical** - Adrien Melquiond (in-person) + teaching assistants (online)
-- 15:00 - 16:00 **Recap + Q&A** - Erik Garrison (recorded lecture)
-- 16:00 - 17:00 **Roundtable with panel of experts over "data and AI"** - Saskia Haitjema, Jeroen de Ridder, Basten Snoek, Pjotr Prins (in-person)
+- 13:00 - 16:00 **NoSQL practical** - Adrien Melquiond & Ruben Bakker (in-person)
 
-# Wednesday Apr 10
+# Wednesday Feb 19
 
-- 09:00 - 10:15 **NoSQL and JSON** - Pjotr Prins (recorded lecture)
+- 09:00 - 10:15 **Covid-19 and other real time genomics challenges** - Joep de Ligt (in-person)
 - 10:15 - 10:30 *break*
-- 10:30 - 12:00 **Multi-omics integration and personalized medicine** - Victor Guryev (in-person)
+- 10:30 - 12:00 **Building Pangenome Graphs** - Andre Guarracino (online)
 - 12:00 - 13:00 *lunch*
-- 13:00 - 15:30 **NoSQL practical** - Adrien Melquiond & Dieter Stoker (in-person) + teaching assistants (online)
-- 15:30 - 17:00 **Interoperability in Science: Semantics** - Jerven Bolleman (recorded lecture)
+- 13:00 - 13:30 **Introduction to the pangenome graph builder (pggb)** - Andrea Guarracino (online)
+- 13:30 - 15:30 **Building pangenomics graphs practical** - Adrien Melquiond & Ruben Bakker (in-person)
+- 15:30 - 16:00 **Recap + Q&A** - Andre Guarracino (online) and Pjotr Prins (in-person)
 
-# Thursday Apr 11
+# Thursday Apr 20
 
-- 09:00 - 10:00 **Integrating WGS and RNAseq data & introduction to the Maxima biobank** - Jayne Hehir-Kwa (in-person)
-- 10:00 - 10:15 *break*
-- 10:15 - 11:00 **Introduction to RDF & SPARQL** - Pjotr Prins (in-person)
-- 11:00 - 11:15 *break*
-- 11:15 - 12:00 **RDF & SPARQL continued** - Pjotr Prins (in-person)
+- 09:00 - 10:15 **Multi-omics integration and personalized medicine** - Victor Guryev (in-person)
+- 10:15 - 10:30 *break*
+- 10:30 - 12:00 **Introduction to RDF & SPARQL** - Pjotr Prins (in-person)
 - 12:00 - 13:00 *lunch*
-- 13:00 - 15:45 **RDF practical** - Adrien Melquiond + teaching assistants (online)
+- 13:00 - 15:45 **RDF practical** - Adrien Melquiond & Ruben Bakker (in-person)
 - 15:45 - 16:00 *break - walking to the Hubrecht Institute*
-- 16:00 - 17:00 **CS&D seminar: "Pangenomes, genotyping and how we can improve on using population studies"** - Pjotr Prins (in-person)
+- 16:00 - 17:00 **CS&D seminar: "Making sense of large cancer genomics datasets"** - Joep de Ligt (in-person)
 
-# Friday Apr 12
-- 09:00 - 12:30 **FAIR + RDF/SPARQL + Q&A** - Mark Wilkinson (in-person)
-- 12:30 - 14:00 *lunch*
+# Friday Apr 21
+- 09:00 - 12:00 **FAIR + RDF/SPARQL + AI** - Pjotr Prins (in-person)
+- 12:00 - 14:00 *lunch*
 - 14:00 - 16:00 **Final Assignment**
