@@ -26,9 +26,9 @@
 
 # Thursday Feb 20
 
-- 09:00 - 10:15 **Multi-omics integration and personalized medicine** - Victor Guryev (in-person)
-- 10:15 - 10:30 *break*
-- 10:30 - 12:00 **Introduction to RDF & SPARQL** - Pjotr Prins (in-person)
+- 09:00 - 10:30 **Introduction to RDF & SPARQL** - Pjotr Prins (in-person)
+- 10:30 - 10:45 *break*
+- 10:45 - 12:00 **Multi-omics integration and personalized medicine** - Victor Guryev (in-person)
 - 12:00 - 13:00 *lunch*
 - 13:00 - 15:45 **RDF practical** - Adrien Melquiond & Ruben Bakker (in-person)
 - 15:45 - 16:00 *break - walking to the Hubrecht Institute*
